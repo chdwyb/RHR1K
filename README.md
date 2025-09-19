@@ -15,4 +15,4 @@ This dataset follows the form below.
 
 ### Contact  us
 
-Now this repository is **still** being preparation, full dataset will be updated upon the acceptance of our work. If I have any inquiries or questions regarding our work, please feel free to contact us at [wyb@chd.edu.cn](mailto:wyb@chd.edu.cn).
+Now this repository is **still** being preparation, full dataset will be updated upon the acceptance of our work. If you have any inquiries or questions regarding our work, please feel free to contact us at [wyb@chd.edu.cn](mailto:wyb@chd.edu.cn).
